@@ -1,0 +1,38 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 887.0
+Filtering allele counts: [385. 530.]
+Filtering allele counts: [286. 689.]
+Filtering allele counts: [216. 844.]
+Filtering allele counts: [299. 742.]
+Filtering allele counts: [184. 719.]
+Filtering allele counts: [656. 736.]
+Filtering allele counts: [ 463. 1498.]
+Filtering allele counts: [668. 331.]
+Filtering allele counts: [787. 128.]
+Filtering allele counts: [ 726. 1011.]
+Filtering allele counts: [180. 810.]
+cutoff: 704.0
+Filtering allele counts: [354. 407.]
+Filtering allele counts: [265. 481.]
+Filtering allele counts: [208. 603.]
+Filtering allele counts: [268. 635.]
+Filtering allele counts: [185. 536.]
+Filtering allele counts: [569. 615.]
+Filtering allele counts: [ 330. 1262.]
+Filtering allele counts: [627. 209.]
+Filtering allele counts: [669.  61.]
+Filtering allele counts: [597. 700.]
+Filtering allele counts: [165. 654.]
+Loaded 418608 informative reads
+50% credible interval spans 400 513900 length is: 513500
+90% credible interval spans 55800 671300 length is: 615500 mean: 427372.77385962644 mode: 61900
+Max multi-locus LOD score at: 3.4581779803152415 61900
+1-LOD interval from  58200 to 63100 length is: 4900
+Sublocalized best location: 61294.5866486697
+Output plot file:  MPresults_scer/scer_ethanol_chrX

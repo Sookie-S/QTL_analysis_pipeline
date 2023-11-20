@@ -1,0 +1,18 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 780.0
+cutoff: 612.0
+Filtering allele counts: [117. 563.]
+Filtering allele counts: [472. 238.]
+Loaded 131728 informative reads
+50% credible interval spans 722600 795000 length is: 72400
+90% credible interval spans 150400 791100 length is: 640700 mean: 611097.5093570644 mode: 736300
+Max multi-locus LOD score at: 4.576423222188414 736300
+1-LOD interval from  730200 to 740400 length is: 10200
+Sublocalized best location: 736311.8692517725
+Output plot file:  MPresults_skud/skud_ethanol_Skud_16

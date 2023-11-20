@@ -1,0 +1,43 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 880.0
+Filtering allele counts: [ 476. 1633.]
+Filtering allele counts: [368. 920.]
+Filtering allele counts: [1317.  436.]
+Filtering allele counts: [403. 768.]
+Filtering allele counts: [ 533. 1256.]
+Filtering allele counts: [ 207. 1003.]
+Filtering allele counts: [ 198. 1069.]
+Filtering allele counts: [1157. 1160.]
+Filtering allele counts: [387. 661.]
+Filtering allele counts: [947. 664.]
+Filtering allele counts: [437. 514.]
+Filtering allele counts: [ 515. 1205.]
+cutoff: 715.0
+Filtering allele counts: [ 518. 1473.]
+Filtering allele counts: [302. 927.]
+Filtering allele counts: [1709.  748.]
+Filtering allele counts: [732. 176.]
+Filtering allele counts: [430. 806.]
+Filtering allele counts: [ 471. 1302.]
+Filtering allele counts: [ 254. 1085.]
+Filtering allele counts: [187. 977.]
+Filtering allele counts: [1074.  943.]
+Filtering allele counts: [414. 731.]
+Filtering allele counts: [863. 629.]
+Filtering allele counts: [237. 563.]
+Filtering allele counts: [ 569. 1588.]
+Filtering allele counts: [437. 471.]
+Filtering allele counts: [391. 485.]
+Loaded 226158 informative reads
+50% credible interval spans 671700 674900 length is: 3200
+90% credible interval spans 653500 675700 length is: 22200 mean: 669760.2726562729 mode: 674400
+Max multi-locus LOD score at: 15.31152469670566 674400
+1-LOD interval from  670600 to 675300 length is: 4700
+Sublocalized best location: 673607.6564366788
+Output plot file:  MPresults_skud/skud_ethanol_Skud_4

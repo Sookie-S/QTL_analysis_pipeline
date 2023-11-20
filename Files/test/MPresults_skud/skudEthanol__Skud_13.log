@@ -1,0 +1,52 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 581.0
+Filtering allele counts: [ 682. 3193.]
+Filtering allele counts: [1532. 1423.]
+Filtering allele counts: [288. 616.]
+Filtering allele counts: [212. 529.]
+Filtering allele counts: [1716. 2096.]
+Filtering allele counts: [543. 793.]
+Filtering allele counts: [1438. 2236.]
+Filtering allele counts: [281. 971.]
+Filtering allele counts: [1483. 2034.]
+Filtering allele counts: [ 82. 715.]
+Filtering allele counts: [118. 500.]
+Filtering allele counts: [629.  87.]
+Filtering allele counts: [452. 502.]
+Filtering allele counts: [250. 798.]
+Filtering allele counts: [522. 659.]
+Filtering allele counts: [ 467. 1449.]
+Filtering allele counts: [454. 779.]
+Filtering allele counts: [331. 975.]
+Filtering allele counts: [ 508. 1497.]
+Filtering allele counts: [1195. 1247.]
+cutoff: 634.0
+Filtering allele counts: [ 645. 3139.]
+Filtering allele counts: [ 81. 696.]
+Filtering allele counts: [1327. 1394.]
+Filtering allele counts: [284. 581.]
+Filtering allele counts: [1927. 2060.]
+Filtering allele counts: [530. 825.]
+Filtering allele counts: [1525. 2449.]
+Filtering allele counts: [ 260. 1096.]
+Filtering allele counts: [1397. 2147.]
+Filtering allele counts: [250. 689.]
+Filtering allele counts: [446. 409.]
+Filtering allele counts: [ 521. 1488.]
+Filtering allele counts: [ 545. 1545.]
+Filtering allele counts: [349. 737.]
+Filtering allele counts: [282. 659.]
+Filtering allele counts: [1179. 1164.]
+Loaded 125879 informative reads
+50% credible interval spans 744100 750200 length is: 6100
+90% credible interval spans 426900 751800 length is: 324900 mean: 716432.1902084477 mode: 749000
+Max multi-locus LOD score at: 7.922415714248125 749000
+1-LOD interval from  742000 to 750900 length is: 8900
+Sublocalized best location: 748466.0922125211
+Output plot file:  MPresults_skud/skud_ethanol_Skud_13
