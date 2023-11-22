@@ -12,8 +12,8 @@ For more information, please contact soukaina.timouma@manchester.ac.uk
 - a "Files" folder:
 
 	- It contains folders for each conditions tested (for example "ethanol", "fluconazole", etc). Each condition folder need to have two sub-folders for each parental species that contains the LOD measured in each chromosome (.out files).
-	
-        - There is also a 'Genomes' folder that contains a folder called GFF_files where you need to store the annotation of parent 1 and parent 2 (GFF files).
+
+	- There is also a 'Genomes' folder that contains a folder called GFF_files where you need to store the annotation of parent 1 and parent 2 (GFF files).
 
 - a Scripts folder:
 
