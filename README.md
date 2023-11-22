@@ -17,7 +17,7 @@ For more information, please contact soukaina.timouma@manchester.ac.uk
 
 - a Scripts folder:
 
-        - It contains all the scripts for this analysis
+	- It contains all the scripts for this analysis
 
 - a "Results" folder:
 
