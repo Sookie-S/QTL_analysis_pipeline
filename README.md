@@ -5,7 +5,7 @@ For more information, please contact soukaina.timouma@manchester.ac.uk
 
 ------------------------------------------------------------------------
 
-0- There are initially 2 folders, Files and Scripts, in the root directory (for example here, the root folder is 'Sookie-S/') and a Results folder that will be created by the pipeline:
+0- There are initially 2 folders, Files and Scripts, in the root directory (for example here, the root folder is 'Sookie-S/') and a Results folder that will be created by the pipeline. See the folder Files present here to see an example.
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ For more information, please contact soukaina.timouma@manchester.ac.uk
 
 ------------------------------------------------------------------------
 
-1- Make sure the input files (.out files) for parent1 and parent2 are in two separated folders, that contains "parent1" or "parent2" in their names. Make sure that there is only the two folders containing the .out files, the folder for parent1 and the for parent2.
+1- Make sure the input files (.out files) for parent1 and parent2 are in two separated folders, that contains "parent1" or "parent2" in their names. Make sure that there is only the two folders containing the .out files, the folder for parent1 and the for parent2. See the folder Files present here to see an example.
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ or
 
 ------------------------------------------------------------------------
 
-2- Make sure that the folders containing the .out files are named appropriately: "SUFFIX_CHR.out".
+2- Make sure that the folders containing the .out files are named appropriately: "SUFFIX_CHR.out". See the folder Files present here to see an example.
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ For example:
 
 ------------------------------------------------------------------------
 
-3- launching the pipeline (from the script folder directory)
+3- How to launch the pipeline (from the script folder directory)
 
 ------------------------------------------------------------------------
 
