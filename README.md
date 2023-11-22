@@ -5,7 +5,7 @@ For more information, please contact soukaina.timouma@manchester.ac.uk
 
 ------------------------------------------------------------------------
 
-0- There are initially 2 folders, Files and Scripts, in the root directory (for example here, the root folder is 'Rachel/Sookie/') and a Results folder that will be created by the pipeline:
+0- There are initially 2 folders, Files and Scripts, in the root directory (for example here, the root folder is 'Sookie-S/') and a Results folder that will be created by the pipeline:
 
 ------------------------------------------------------------------------
 
