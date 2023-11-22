@@ -11,19 +11,19 @@ For more information, please contact soukaina.timouma@manchester.ac.uk
 
 - a "Files" folder:
 
-	* It contains the folders for the conditions tested (for example "ethanol", "fluconazole", etc), that have each two sub-directories for each parental species that contains the LOD measured in each chromosome (.out files).
+	- It contains folders for each conditions tested (for example "ethanol", "fluconazole", etc). Each condition folder need to have two sub-folders for each parental species that contains the LOD measured in each chromosome (.out files).
 	
-        * There is also a 'Genomes' folder that contains a folder called GFF_files where you need to store the annotation of parent 1 and parent 2 (GFF files).
+        - There is also a 'Genomes' folder that contains a folder called GFF_files where you need to store the annotation of parent 1 and parent 2 (GFF files).
 
 - a Scripts folder:
 
-        * contains all the scripts for this analysis
+        - It contains all the scripts for this analysis
 
 - a "Results" folder:
 
-	* the folder 'QTL_regions' contains sub-folders for each condition tested (for example "ethanol", "fluconazole", etc), and it contains the QTL regions detected (.csv files)
+	- the folder 'QTL_regions' contains sub-folders for each condition tested (for example "ethanol", "fluconazole", etc), and it contains the QTL regions detected (.csv files)
 
-	* the folder 'Gene_overlap' contains sub-folders for each condition tested (for example "ethanol", "fluconazole", etc), and it gives as information the genes that overlap with each QTL regions, and the information if they are within the LOD support interval.
+	- the folder 'Gene_overlap' contains sub-folders for each condition tested (for example "ethanol", "fluconazole", etc), and it gives as information the genes that overlap with each QTL regions, and the information if they are within the LOD support interval.
 
 
 ------------------------------------------------------------------------
