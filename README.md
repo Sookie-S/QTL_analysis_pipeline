@@ -1,7 +1,6 @@
 For more information, please contact soukaina.timouma@manchester.ac.uk
 
-
-
+This pipeline aims to detect QTL regions from LOD scores of positions (bin size of 100 bp in the example provided) and identify genes that overlap with each QTL regions, as well as detect whether they are within the LOD support interval (the interval in which the LOD score is within some value of its maximum). 
 
 ------------------------------------------------------------------------
 
