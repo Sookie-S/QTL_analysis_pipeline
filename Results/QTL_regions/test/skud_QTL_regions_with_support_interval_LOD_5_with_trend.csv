@@ -1,0 +1,7 @@
+Chrm	Bin Start (bp)	Bin Stop (bp)	Peak LOD	Peak (bp)	LOD threshold	LOD support interval	QTL trend
+Skud_4	187900	219500	6.53	217800	5.0	189300-218900	Up-Down-Up-Down-Up-Down
+Skud_4	599400	694400	15.31	674400	5.0	670700-675200	Up-Down-Up-Down-Up-Down-Up-Down
+Skud_6	155400	176600	6.84	164200	5.0	158000-173900	Up-Down-Up-Down
+Skud_10	383500	419800	6.47	408800	5.0	386100-416900	Up-Down-Up-Down-Up-Down
+Skud_10	430800	522700	6.90	490700	5.0	444600-498400	Up-Down-Up-Down-Up-Down-Up-Down-Up-Down-Up-Down-Up-Down
+Skud_3	139800	180000	13.63	158400	5.0	154900-161300	Up-Down
