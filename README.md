@@ -82,7 +82,7 @@ To launch the pipeline, please specify all the following arguments:
 ./pipeline.sh [LOD_threshold] [LOD_support_interval] [conditionName] [Name_Parent1] [Name_parent2] [ChromosomePrefix_Parent1] [GFF_file_Name_Parent1] [ChromosomePrefix_Parent2] [GFF_file_Name_Parent2]
 
 
-for example:
+for example, using the data provided in the Files directory, it would be:
 - LOD_threshold = 5
 - LOD_support_interval = 1
 - conditionName = test
