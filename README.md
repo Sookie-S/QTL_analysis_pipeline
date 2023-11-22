@@ -3,11 +3,11 @@ For more information, please contact soukaina.timouma@manchester.ac.uk
 
 
 
-############################################
+------------------------------------------------------------------------
 
 0- There are initially 2 folders, Files and Scripts, in the root directory (for example here, the root folder is 'Rachel/Sookie/') and a Results folder that will be created by the pipeline:
 
-############################################
+------------------------------------------------------------------------
 
 - a "Files" folder:
 
@@ -26,11 +26,11 @@ For more information, please contact soukaina.timouma@manchester.ac.uk
 	* the folder 'Gene_overlap' contains sub-folders for each condition tested (for example "ethanol", "fluconazole", etc), and it gives as information the genes that overlap with each QTL regions, and the information if they are within the LOD support interval.
 
 
-############################################
+------------------------------------------------------------------------
 
 1- Make sure the input files (.out files) for parent1 and parent2 are in two separated folders, that contains "parent1" or "parent2" in their names. Make sure that there is only the two folders containing the .out files, the folder for parent1 and the for parent2.
 
-############################################
+------------------------------------------------------------------------
 
 For example, for the hybrid S. cerevisiae/S. kudriavzevii, is parent1 name is "scer" and parent2 name is "skud", the names of the folders can be:
 
@@ -44,11 +44,11 @@ or
 - WhateverBLAskud
 
 
-############################################
+------------------------------------------------------------------------
 
 2- Make sure that the folders containing the .out files are named appropriately: "SUFFIX_CHR.out".
 
-############################################
+------------------------------------------------------------------------
 
 The suffix "SUFFIX" can be named anything as long as it doesn't contain an "_"
 The prefix "CHR" corresponds to the chromosome name as written in the GFF file.
@@ -70,11 +70,11 @@ For example:
    - skidLT_Skud1.out
 
 
-############################################
+------------------------------------------------------------------------
 
 3- launching the pipeline (from the script folder directory)
 
-############################################
+------------------------------------------------------------------------
 
 
 To launch the pipeline, please specify all the following arguments:
