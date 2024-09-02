@@ -1,0 +1,52 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 687.0
+Filtering allele counts: [701. 354.]
+Filtering allele counts: [448. 314.]
+Filtering allele counts: [236. 796.]
+Filtering allele counts: [406. 305.]
+Filtering allele counts: [114. 674.]
+Filtering allele counts: [290. 591.]
+Filtering allele counts: [382. 741.]
+Filtering allele counts: [414. 388.]
+Filtering allele counts: [1060.  403.]
+Filtering allele counts: [148. 672.]
+Filtering allele counts: [503. 206.]
+Filtering allele counts: [254. 560.]
+Filtering allele counts: [262. 462.]
+Filtering allele counts: [214. 500.]
+Filtering allele counts: [498. 216.]
+Filtering allele counts: [328. 451.]
+Filtering allele counts: [378. 332.]
+Filtering allele counts: [452. 326.]
+Filtering allele counts: [469. 220.]
+Filtering allele counts: [207. 546.]
+Filtering allele counts: [326. 767.]
+Filtering allele counts: [320. 478.]
+cutoff: 817.0
+Filtering allele counts: [363. 822.]
+Filtering allele counts: [346. 574.]
+Filtering allele counts: [219. 848.]
+Filtering allele counts: [158. 689.]
+Filtering allele counts: [608. 360.]
+Filtering allele counts: [103. 792.]
+Filtering allele counts: [201. 696.]
+Filtering allele counts: [180. 764.]
+Filtering allele counts: [163. 658.]
+Filtering allele counts: [371. 487.]
+Filtering allele counts: [226. 659.]
+Filtering allele counts: [334. 508.]
+Filtering allele counts: [298. 929.]
+Filtering allele counts: [842. 543.]
+Loaded 413958 informative reads
+50% credible interval spans 744700 748500 length is: 3800
+90% credible interval spans 742000 750500 length is: 8500 mean: 746099.323209061 mode: 747000
+Max multi-locus LOD score at: 19.416616369038888 747000
+1-LOD interval from  742100 to 749800 length is: 7700
+Sublocalized best location: 746761.8024582965
+Output plot file:  MPresults_scer/scer_fluconazole_chrXIV

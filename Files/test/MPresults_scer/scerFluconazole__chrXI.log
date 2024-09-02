@@ -1,0 +1,24 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 844.0
+Filtering allele counts: [146. 776.]
+Filtering allele counts: [146. 976.]
+Filtering allele counts: [788. 132.]
+Filtering allele counts: [685. 167.]
+Filtering allele counts: [277. 744.]
+cutoff: 840.0
+Filtering allele counts: [307. 698.]
+Filtering allele counts: [866.  33.]
+Filtering allele counts: [313. 557.]
+Loaded 358754 informative reads
+50% credible interval spans 425100 428800 length is: 3700
+90% credible interval spans 420700 431200 length is: 10500 mean: 426419.1221864801 mode: 427200
+Max multi-locus LOD score at: 19.080022841306523 427200
+1-LOD interval from  423100 to 430300 length is: 7200
+Sublocalized best location: 427117.01642811566
+Output plot file:  MPresults_scer/scer_fluconazole_chrXI

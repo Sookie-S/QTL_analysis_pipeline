@@ -1,0 +1,54 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 639.0
+Filtering allele counts: [ 620. 3242.]
+Filtering allele counts: [1456. 1481.]
+Filtering allele counts: [322. 671.]
+Filtering allele counts: [ 82. 720.]
+Filtering allele counts: [186. 468.]
+Filtering allele counts: [1857. 2325.]
+Filtering allele counts: [505. 884.]
+Filtering allele counts: [1707. 2317.]
+Filtering allele counts: [ 274. 1035.]
+Filtering allele counts: [1386. 2060.]
+Filtering allele counts: [728.  68.]
+Filtering allele counts: [288. 844.]
+Filtering allele counts: [563. 417.]
+Filtering allele counts: [ 389. 1326.]
+Filtering allele counts: [250. 404.]
+Filtering allele counts: [365. 783.]
+Filtering allele counts: [341. 914.]
+Filtering allele counts: [ 480. 1605.]
+Filtering allele counts: [1127. 1336.]
+cutoff: 605.0
+Filtering allele counts: [ 583. 2835.]
+Filtering allele counts: [1392. 1279.]
+Filtering allele counts: [286. 560.]
+Filtering allele counts: [206. 596.]
+Filtering allele counts: [1605. 1987.]
+Filtering allele counts: [560. 818.]
+Filtering allele counts: [1404. 1848.]
+Filtering allele counts: [246. 924.]
+Filtering allele counts: [1219. 1774.]
+Filtering allele counts: [ 216. 1481.]
+Filtering allele counts: [217. 423.]
+Filtering allele counts: [565.  82.]
+Filtering allele counts: [490. 543.]
+Filtering allele counts: [ 460. 1341.]
+Filtering allele counts: [ 472. 1288.]
+Filtering allele counts: [259. 786.]
+Filtering allele counts: [363. 745.]
+Filtering allele counts: [302. 893.]
+Filtering allele counts: [1174. 1280.]
+Loaded 125758 informative reads
+50% credible interval spans 704100 713000 length is: 8900
+90% credible interval spans 293200 713100 length is: 419900 mean: 568396.2011791229 mode: 710700
+Max multi-locus LOD score at: 12.443508228351444 710700
+1-LOD interval from  705100 to 712500 length is: 7400
+Sublocalized best location: 710243.5189150375
+Output plot file:  MPresults_skud/skud_fluconazole_Skud_13

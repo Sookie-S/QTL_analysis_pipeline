@@ -1,0 +1,20 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 901.0
+Filtering allele counts: [444. 459.]
+cutoff: 682.0
+Filtering allele counts: [171. 603.]
+Filtering allele counts: [432. 400.]
+Filtering allele counts: [268. 555.]
+Loaded 69739 informative reads
+50% credible interval spans 236500 402700 length is: 166200
+90% credible interval spans 24800 378300 length is: 353500 mean: 228108.87644210126 mode: 353900
+Max multi-locus LOD score at: 1.7416009463130786 353900
+1-LOD interval from  339200 to 359600 length is: 20400
+Sublocalized best location: 353933.60348785744
+Output plot file:  MPresults_skud/skud_fluconazole_Skud_9

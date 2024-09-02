@@ -1,0 +1,47 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 702.0
+Filtering allele counts: [1117.  503.]
+Filtering allele counts: [1214.  810.]
+Filtering allele counts: [410. 362.]
+Filtering allele counts: [2066.  430.]
+Filtering allele counts: [1013.  335.]
+Filtering allele counts: [241. 609.]
+Filtering allele counts: [563. 266.]
+Filtering allele counts: [941. 114.]
+Filtering allele counts: [1075.  391.]
+Filtering allele counts: [ 201. 1066.]
+Filtering allele counts: [1001.  195.]
+Filtering allele counts: [474. 456.]
+Filtering allele counts: [722. 588.]
+Filtering allele counts: [701. 509.]
+Filtering allele counts: [1019.  862.]
+cutoff: 708.0
+Filtering allele counts: [1212.  243.]
+Filtering allele counts: [377. 351.]
+Filtering allele counts: [2193.  495.]
+Filtering allele counts: [872. 327.]
+Filtering allele counts: [356. 899.]
+Filtering allele counts: [222. 554.]
+Filtering allele counts: [401. 377.]
+Filtering allele counts: [1484.  232.]
+Filtering allele counts: [1158.  436.]
+Filtering allele counts: [205. 899.]
+Filtering allele counts: [1033.  173.]
+Filtering allele counts: [424. 364.]
+Filtering allele counts: [666. 491.]
+Filtering allele counts: [656. 436.]
+Filtering allele counts: [1617. 1012.]
+Filtering allele counts: [955. 520.]
+Loaded 161055 informative reads
+50% credible interval spans 719700 725100 length is: 5400
+90% credible interval spans 715500 730300 length is: 14800 mean: 722652.1592251343 mode: 723600
+Max multi-locus LOD score at: 18.083363854019908 723600
+1-LOD interval from  717400 to 728300 length is: 10900
+Sublocalized best location: 723379.8571285409
+Output plot file:  MPresults_skud/skud_fluconazole_Skud_12

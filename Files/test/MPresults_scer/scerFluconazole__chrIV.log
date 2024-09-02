@@ -1,0 +1,49 @@
+Multipool version: 0.10.2
+Python version: 2.7.15 | packaged by conda-forge | (default, Mar  5 2020, 14:56:06) 
+[GCC 7.3.0]
+Scipy version: 1.2.1
+Numpy version: 1.15.4
+Matplotlib version: 2.2.5
+Recombination fraction: 0.00030303030303 in cM: 3300.0
+cutoff: 742.0
+Filtering allele counts: [483. 374.]
+Filtering allele counts: [441. 375.]
+Filtering allele counts: [451. 337.]
+Filtering allele counts: [ 488. 1015.]
+Filtering allele counts: [997. 794.]
+Filtering allele counts: [769. 663.]
+Filtering allele counts: [470. 524.]
+Filtering allele counts: [ 854. 1212.]
+Filtering allele counts: [285. 679.]
+Filtering allele counts: [289. 462.]
+Filtering allele counts: [292. 451.]
+Filtering allele counts: [586. 617.]
+Filtering allele counts: [1051.  823.]
+Filtering allele counts: [1105. 1385.]
+Filtering allele counts: [729.  29.]
+Filtering allele counts: [208. 600.]
+Filtering allele counts: [510. 238.]
+cutoff: 720.0
+Filtering allele counts: [538. 485.]
+Filtering allele counts: [566. 241.]
+Filtering allele counts: [349. 787.]
+Filtering allele counts: [827. 888.]
+Filtering allele counts: [689. 649.]
+Filtering allele counts: [330. 522.]
+Filtering allele counts: [459. 272.]
+Filtering allele counts: [471. 456.]
+Filtering allele counts: [502. 349.]
+Filtering allele counts: [ 686. 1087.]
+Filtering allele counts: [522. 212.]
+Filtering allele counts: [526. 465.]
+Filtering allele counts: [943. 773.]
+Filtering allele counts: [ 738. 1178.]
+Filtering allele counts: [165. 647.]
+Filtering allele counts: [452. 284.]
+Loaded 697187 informative reads
+50% credible interval spans 751400 832100 length is: 80700
+90% credible interval spans 593300 879700 length is: 286400 mean: 741560.0095967466 mode: 768400
+Max multi-locus LOD score at: 16.728944936346885 768400
+1-LOD interval from  763000 to 773200 length is: 10200
+Sublocalized best location: 768526.4662165948
+Output plot file:  MPresults_scer/scer_fluconazole_chrIV
